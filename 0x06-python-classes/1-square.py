@@ -5,6 +5,8 @@ class Square:
         
         self.__size = size
 
+        mySquare = Square(size)
+
 
 
 
